@@ -1,2 +1,2 @@
-# student-management-system
-Spring MVC CRUD Application
+#Simple student management system
+Thymeleaf + Spring MVC CRUD Application
